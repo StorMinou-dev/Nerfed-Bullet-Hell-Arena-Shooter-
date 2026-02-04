@@ -1,5 +1,5 @@
 # Nerfed-Bullet-Hell-Arena-Shooter-
-*2 weeks*, *2023*, *Unity*, *Game*, *Solo*
+*2 weeks*, *2023*, *Unity*, *Game*, *Solo*, *C#*
 
 
 ### Project Name : **Nerfed Bullet Hell**
