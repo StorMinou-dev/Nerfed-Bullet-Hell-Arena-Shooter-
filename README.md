@@ -15,7 +15,7 @@ This game is a 3D top down arena shooter made in Unity,
 it features elements from bullet hell type of games like   
 Touhou Project (which is heavily inspired of)  
 The goal is to survive waves of enemies by dodging their   
-projectiles and shooting them with your aim.
+projectiles and shooting them with your aim.  
 You start with 4 lives and the game   
 is over when you lose all of them.   
 
